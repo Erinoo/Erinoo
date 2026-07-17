@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Erfan, I'm a trained engineer that moved into the commercial world before vibe coding plated the seeds for everything on python and data science. I must admit i do love a clean efficient pipeline. 
+
 <!--
 **Erinoo/Erinoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
